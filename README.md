@@ -9,7 +9,7 @@
 - 😄 Pronouns:  he/him.
 - ⚡ Fun fact: I can spend hours debugging code, and I actually enjoy it!
 
-# About Me :
+# 💫 About Me:
 
 I’m a web developer passionate about building dynamic websites and crafting exceptional WordPress solutions. My work focuses on crafting custom themes, enhancing website performance, and ensuring seamless user experiences. Currently, I’m expanding my skills by learning React.js and advanced JavaScript to integrate modern, scalable solutions into my projects.
 
@@ -17,9 +17,6 @@ I’m enthusiastic about collaborating on open-source projects, particularly tho
 
 With experience in WordPress development, Python, and web optimization, I’m available for consultations on building custom themes, improving website performance, or solving complex development challenges.
 
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
